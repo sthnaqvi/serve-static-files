@@ -1,0 +1,15 @@
+{
+  "name": "serve-static-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayed Tauseef Naqvi",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.2"
+  }
+}
